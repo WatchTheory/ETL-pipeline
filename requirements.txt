@@ -3,5 +3,5 @@ core libraries
 pandas
 requests
 sqlalchemy
-sqlalchemy 
+python-dotenv
 DB - whatever database you want to use (e.g., psycopg2 for PostgreSQL, mysql-connector-python for MySQL, etc.)
